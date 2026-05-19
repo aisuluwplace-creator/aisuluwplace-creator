@@ -48,7 +48,7 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 
 # Connect
 
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/aisulu-meiirkhan-92a3bb3a0/)
+💼 LinkedIn: https://www.linkedin.com/in/aisulu-meiirkhan-92a3bb3a0/
 
 📨 Telegram: https://t.me/aisuuuluuu
 
