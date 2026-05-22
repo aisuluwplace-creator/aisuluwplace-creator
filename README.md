@@ -28,19 +28,11 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 
 ---
 
-# Featured Work
-
-🚧 Ecommerce Sales Analytics — In Progress
-🚧 Customer Churn Analysis — In Progress
-🚧 SQL Analytics Portfolio — Coming Soon
-
----
-
 # Currently Learning
 
 * Advanced SQL & Window Functions
-* Data Storytelling
-* Power BI Dashboards
+* Python for Data Analysis
+* Product Metrics & KPI Analysis
 * Customer Segmentation
 
 ---
