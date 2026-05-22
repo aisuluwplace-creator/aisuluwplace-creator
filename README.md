@@ -1,6 +1,6 @@
 # Aisulu Meiirkhan
 
-### Junior Data Analyst | SQL • Python • Excel • Tableau
+### Junior Data Analyst | SQL • Excel • Tableau • Python
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights through analytics, visualization, and business intelligence.
 
@@ -20,11 +20,11 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful bus
 # Stack
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=Tableau\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
 ---
 
